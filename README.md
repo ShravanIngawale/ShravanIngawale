@@ -1,6 +1,6 @@
 <img alt="Banner" height="270" width="1200" src="https://github.com/ShravanIngawale/ShravanIngawale/blob/main/Banner.gif">
 <h1 align="center">Hi 👋, I'm Shravan Ingawale</h1>
-<h3 align="center">BCA Graduate, Aspiring AI Developer</h3>
+<h3 align="center">About Me</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravaningawale&label=Profile%20views&color=0e75b6&style=flat" alt="shravaningawale" /> </p>
