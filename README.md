@@ -29,11 +29,12 @@
   <b>Large Language Model</b>
 </p>
 
-### 📣 Contact Information:
+### 📣 Contact Links:
 <p>
   <a href="https://linkedin.com/in/shravan-ingawale" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
+    &nbsp; 
   <a href="mailto:shravaningawale1313@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40"/>
   </a>
