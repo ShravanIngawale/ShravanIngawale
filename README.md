@@ -8,26 +8,23 @@
 
 
 <h3 align="left">I'm Exploring and Working on:</h3>
-<!-- Line 1: Python, NumPy, pandas -->
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> &nbsp;
   <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" width="40"/> &nbsp;  
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40"/>
 </p>
 
-<!-- Line 2: scikit-learn, Keras, TensorFlow -->
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40"/>
 </p>
 
-<!-- Line 3: Data Science & Machine Learning -->
 <p>
   <b>Data Science & Machine Learning</b>
 </p>
 
-<!-- Line 4: Large Language Models (LLMs) -->
 <p>
   <b>Large Language Model</b>
 </p>
@@ -38,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp;
-  <a href="mailto:shravaningawale1313@gmail.com" target="_blank">
+  <a href="mailto:shravaningawale1313@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40"/>
   </a>
 </p>
