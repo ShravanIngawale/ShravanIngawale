@@ -21,17 +21,15 @@
 <h4 align="left">2) Math:</h4>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40"/>
+  <img src="https://www.reshot.com/preview-assets/icons/NCBM3HJ5EZ/math-symbols-NCBM3HJ5EZ.svg" alt="mathematics" width="60"/> &nbsp;
+  <img src="https://www.reshot.com/preview-assets/icons/NSRGHFQJEL/chart-statistic-rise-up-NSRGHFQJEL.svg" alt="statistics" width="50"/>
 </p>
 
-<p>
-  <b>Data Science & Machine Learning</b>
-</p>
+<h4 align="left">3) Analysis & Visualization:</h4>
 
 <p>
-  <b>Large Language Model</b>
+  <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="excel" width="110"/> &nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="power bi" width="60"/>
 </p>
 
 ### 📣 Contact Links:
