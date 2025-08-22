@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Shravan Ingawale</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif">
 
-- 🎓 I'm a BCA graduate from **Tilak Maharashtra Vidyapeeth, Pune**, India.  
+- 🎓 I'm a BCA graduate from **Tilak Maharashtra Vidyapeeth, Pune**, India.
+- Aspiring **Data Analyst**, currently learning the tools and methods that turn messy data into clear business insights.
 - 🤖 I have a strong passion for **Artificial Intelligence** and love exploring everything about it.  
-- 🚀 My goal is to become an **AI Developer**, and I'm currently working on building the skills needed to contribute meaningfully in this exciting field.
+- 🚀 My goal is to become an **AI Developer**. I am progressing step by step - currently strengthening my foundation in data analysis, statistics, and coding.
 
 
 <h3 align="left">I'm Exploring and Working on:</h3>
