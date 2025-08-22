@@ -8,13 +8,17 @@
 - 🚀 My goal is to become an **AI Developer**. I am progressing step by step - currently strengthening my foundation in data analysis, statistics, and coding.
 
 
-<h3 align="left">I'm Exploring and Working on:</h3>
+<h3 align="left">I’m following a step-by-step learning path across three areas:-</h3>
+
+<h4 align="left">1) Coding & Data Engineering:</h4>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> &nbsp;
-  <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" width="40"/> &nbsp;  
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" width="40"/>   
 </p>
+
+<h4 align="left">2) Math:</h4>
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60"/> &nbsp;
