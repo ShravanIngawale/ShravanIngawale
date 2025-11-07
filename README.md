@@ -31,7 +31,7 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="power bi" width="60"/>
 </p>
 
-<h2>Skill:</h2>
+<h2 align="center">Skill</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60"/>
 
 ### 📣 Contact Links:
