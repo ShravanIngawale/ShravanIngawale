@@ -7,7 +7,6 @@
 - 🤖 I have a strong passion for **Artificial Intelligence** and love exploring everything about it.  
 - 🚀 My goal is to become an **AI Developer**. I am progressing step by step - currently strengthening my foundation in data analysis, statistics, and coding.
 
-
 <h3 align="left">I’m following a step-by-step learning path across three areas:-</h3>
 
 <h4 align="left">1) Coding & Data Engineering:</h4>
@@ -31,6 +30,9 @@
   <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="excel" width="110"/> &nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="power bi" width="60"/>
 </p>
+
+<h2>Skill:</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60"/>
 
 ### 📣 Contact Links:
 <p>
