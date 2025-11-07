@@ -1,6 +1,5 @@
 <img alt="Banner" height="270" width="1200" src="https://github.com/ShravanIngawale/ShravanIngawale/blob/main/Banner.gif">
 <h1 align="center">Hi 👋, I'm Shravan Ingawale</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif">
 
 - 🎓 I'm a BCA graduate from **Tilak Maharashtra Vidyapeeth, Pune**, India.
 - 📊 Aspiring **Data Analyst**, currently learning the tools and methods that turn messy data into clear business insights.
@@ -8,6 +7,8 @@
 - 🚀 My goal is to become an **AI Developer**. I am progressing step by step - currently strengthening my foundation in data analysis, statistics, and coding.
 
 <h3 align="left">I’m following a step-by-step learning path across three areas:-</h3>
+
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif">
 
 <h4 align="left">1) Coding & Data Engineering:</h4>
 
