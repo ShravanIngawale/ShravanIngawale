@@ -32,8 +32,11 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="power bi" width="60"/>
 </p>
 
-<h2 align="center">Skill</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60"/>
+<h2 align="center">Skills</h2>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60"/>
+  <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="excel" width=100"/>
+</p>
 
 ### 📣 Contact Links:
 <p>
